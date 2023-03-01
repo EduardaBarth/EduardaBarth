@@ -17,10 +17,17 @@ I'm 18 years old. <p>
 ![Canva](https://img.shields.io/badge/-canva-0D1117?style=for-the-badge&logo=canva&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&logoColor=purple&labelColor=0D1117)&nbsp; 
+<img alt="Topaza-javascript" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
 
+### Skills:
+<div style="display: inline_block"><br>
+<img alt="Topaza-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
+<img alt="Topaza-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img alt="Topaza-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
+<img alt="Topaza-css" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+</div>
+  
 ### Other knowledges:
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
